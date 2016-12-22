@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">微信自动抢红包</string>
+    <string name="description">请开启辅助服务,才能自动抢红包</string>
+    <string name="label">微信6.3.31版自动抢红包</string>
+</resources>
